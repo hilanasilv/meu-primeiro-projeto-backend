@@ -6,9 +6,9 @@ const porta = 3333
 
 function mostraMulher(request, response){
     response.json({
-        nome: "Simara Conceição",
-        imagem: "https://github.com/simaraconceicao.png",
-        minibio: "Desenvolvedora e instrutora"
+        nome: "",
+        imagem: "",
+        minibio: ""
     })
 }
 
